@@ -1,4 +1,4 @@
-![MasterHead](img.png)
+![MasterHead](img.png) ![code](https://www.iakademi.com/wp-content/uploads/2023/02/en-iyi-yazilim-programlari-1170x500.jpg)
 <h1 align="center">Hi 👋, I'm Yiğit çıtak</h1>
 <h3 align="center">A passionate desktop developer from Turkiye</h3>
 
