@@ -1,4 +1,4 @@
-![MasterHead](img.png) ![code](https://assets.techrepublic.com/uploads/2021/08/tux-new.jpg)
+![MasterHead](img.png) ![code]
 <h1 align="center">Hi 👋, I'm Yiğit çıtak</h1>
 <h3 align="center">A passionate desktop developer from Turkiye</h3>
 
