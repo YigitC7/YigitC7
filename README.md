@@ -3,7 +3,6 @@
 <h3 align="center">I'm interested in Linux tools, Desktop programs and web development</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -27,6 +26,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tkinter-logo.svg/1200px-Tkinter-logo.svg.png" alt="tkinter" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tkinter/tkinter-original.svg" alt="tkinter" width="40" height="40"/> 
     </a> 
 </p>
