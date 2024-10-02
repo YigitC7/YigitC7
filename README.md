@@ -1,4 +1,4 @@
-![MasterHead](image.png)
+![MasterHead](image_.png)
 <h1 align="center">Hi 👋, I'm Yiğit çıtak</h1>
 <h3 align="center">I'm interested in Linux tools, Desktop programs and web development</h3>
 
