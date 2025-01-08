@@ -12,11 +12,7 @@ Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YigitC7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-<a href="https://customtkinter.tomschimansky.com/" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_8tx64t/styles/communityIcon_kbz7e49k7obb1.png" alt="python" width="40" height="40"/> </a></p>
+<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://customtkinter.tomschimansky.com/" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_8tx64t/styles/communityIcon_kbz7e49k7obb1.png" alt="python" width="40" height="40"/> </a></p>
 
 ## 🏆 GitHub Ödülleri
 ![](https://github-profile-trophy.vercel.app/?username=YigitC7&theme=default&no-frame=false&no-bg=false&margin-w=4)
