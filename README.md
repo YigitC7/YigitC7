@@ -14,6 +14,10 @@ Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YigitC7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎓 Sertifikalar:
+- [BTK Akademi Sertifikası](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=xr4t0ngpOX)
+
+
 ## 🏆 GitHub Ödülleri
 ![](https://github-profile-trophy.vercel.app/?username=YigitC7&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
