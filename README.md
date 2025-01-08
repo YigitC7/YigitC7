@@ -17,8 +17,9 @@ Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 ## 🎓 Sertifikalar:
 - [BTK Akademi Sertifikası](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=xr4t0ngpOX)
 <p align="left">
-  <img src="sertifika-gorsel-linkiniz" alt="BTK Akademi Sertifikası" width="500">
+  <img src="btk_akademi.png" alt="BTK Akademi Sertifikası" width="500">
 </p>
+
 
 
 
