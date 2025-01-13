@@ -12,7 +12,7 @@ Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 # 📊 GitHub İstatistikleri:
 ![](https://github-readme-stats.vercel.app/api?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YigitC7&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitC7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 🎓 Sertifikaları:
 <p align="left">
