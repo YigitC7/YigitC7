@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
 </p>
+
 # 💫 Hakkımda:
 Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 <a href="https://github.com/Yigit-2023">Eski Github hesabım</a>
