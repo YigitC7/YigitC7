@@ -1,4 +1,3 @@
-![MasterHead](image_.png)
 # 💫 Hakkımda:
 Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 <a href="https://github.com/Yigit-2023">Eski Github hesabım</a>
