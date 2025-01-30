@@ -3,7 +3,7 @@
 Linux Masaüstü Programları ve Linux araçları yazıyorum.<br>
 <a href="https://github.com/Yigit-2023">Eski Github hesabım</a>
 <br>
-<a href="https://yigit-packages.netlify.app/">Yayınladığım paketler</a>
+<a href="https://yigit-packages.netlify.app/">Yayınladığım paketler</a><br><br>
 Yaptığım programlar:<br>
   <a href="https://defter.netlify.app/">Defter</a>
 
