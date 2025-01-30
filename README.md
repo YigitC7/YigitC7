@@ -26,7 +26,6 @@ Yaptığım programlar:<br>
 
 ## 🏆 GitHub Ödülleri
 ![](https://github-profile-trophy.vercel.app/?username=YigitC7&theme=default&no-frame=false&no-bg=false&margin-w=4)
-![snake gif](https://github.com/YigitC7/YigitC7/github-snake-dark.svg)
 
 ### 🔝 En Çok Katkıda Bulunan Depo
 ![](https://github-contributor-stats.vercel.app/api?username=YigitC7&limit=5&theme=default&combine_all_yearly_contributions=true)
