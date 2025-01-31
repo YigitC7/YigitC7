@@ -14,7 +14,7 @@ Yaptığım programlar:<br>
 # 💻 Teknoloji Yığını:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<p align="left"><a href="https://customtkinter.tomschimansky.com/" rel="noreferrer"> <img src="https://programacionfacil.org/blog/wp-content/uploads/2023/02/custom-tkinter-logo-programacionfacil-org.png" alt="python" height=30 width=250/> </a></p>
+<p align="left"><a href="https://customtkinter.tomschimansky.com/" rel="noreferrer"> <img src="https://programacionfacil.org/blog/wp-content/uploads/2023/02/custom-tkinter-logo-programacionfacil-org.png" alt="python" height=40 width=250/> </a></p>
 
 # 📊 GitHub İstatistikleri:
 ![](https://github-readme-stats.vercel.app/api?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
