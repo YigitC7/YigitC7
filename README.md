@@ -4,8 +4,8 @@
 
 # 💫 Hakkımda:
 Hobi olarak yazılım geliştiriyorum.<br>
-Python ile GUI programlar yapıyorum.<br>
-Yaptığım programları Linux tabanlı işletim sistemlerinde çalışacak şekilde yazıyorum.<br>
+Python ile Masaüstü programlar yapıyorum.<br>
+
 
 Yaptığım programlar:<br>
   <a href="https://defter.netlify.app/">Defter</a>
