@@ -2,14 +2,6 @@
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
 </p>
 
-# 💫 Hakkımda:
-Hobi olarak yazılım geliştiriyorum.<br>
-Python ile Masaüstü programlar yapıyorum.<br>
-
-
-Yaptığım programlar:<br>
-  <a href="https://defter.netlify.app/">Defter</a>
-
 # 💻 Teknoloji Yığını:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)<br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
