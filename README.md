@@ -26,6 +26,7 @@
 
     <img src="btk_akademi.png" alt="BTK Akademi Sertifikası" width="500">
   </a>
+  
   <a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGVa0GP">
 
     <img src="btk_akademi.png" alt="BTK Akademi Sertifikası" width="500">
