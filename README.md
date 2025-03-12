@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
-  ![](https://komarev.com/ghpvc/?username=YigitC7s&color=blue)
 </p>
+
+![](https://komarev.com/ghpvc/?username=YigitC7s&color=blue)
 
 <div align="center">
  <a href="https://github.com/YigitC7">
