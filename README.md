@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=YigitC7s&color=blue)
-
 <div align="center">
  <a href="https://github.com/YigitC7">
   <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Yiğit+Çıtak+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Hoş+Geldiniz+%f0%9f%91%80" alt="Typing SVG" /></a>
