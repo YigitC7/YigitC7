@@ -25,20 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YigitC7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🎓 Certificates:
-<p align="left">
-  <a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=xr4t0ngpOX">
-    <img src="btk_akademi.png" alt="BTK Akademi Sertifikası" width="500">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGVa0GP">
-    <img src="btk_akademi2.png" alt="BTK Akademi Sertifikası" width="500">
-  </a>
-</p>
-
-
 ## 🏆 GitHub Awards
 ![](https://github-profile-trophy.vercel.app/?username=YigitC7&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
