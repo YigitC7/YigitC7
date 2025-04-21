@@ -4,8 +4,7 @@
 
 <div align="center">
   
- <a href="https://github.com/YigitC7">
-  <img src="https://readme-typing-svg.demolab.com? font="Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Yiğit+Çıtak+%e2%9c%a8;%f0%9f%93%9a+Desktop+App+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yi%C4%9Fit+%C3%87%C4%B1tak;Welcome+To+My+Profile;GNU+Linux+Apps)](https://git.io/typing-svg)
 
 </div>
 
