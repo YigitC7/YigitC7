@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1733F&width=520&height=80&lines=Yi%C4%9Fit+%C3%87%C4%B1tak;Welcome+To+My+Profile;GNU+Linux+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1733F&width=520&height=80&lines=Yi%C4%9Fit+%C3%87%C4%B1tak;Welcome+To+My+Profile)](https://git.io/typing-svg)
 
 </div>
 
