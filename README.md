@@ -25,6 +25,8 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)
 
-
+## 📌 Projeler
+* Defter
+  Düzenli notlar almayı amaçlayan bir not defteri uygulamasıdır. İlk büyük projem olduğu için kaynak kodu fazlasıyla düzensizdir.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
