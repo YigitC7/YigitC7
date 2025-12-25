@@ -27,6 +27,6 @@
 
 ## 📌 Projeler
 * Defter
-  Düzenli notlar almayı amaçlayan bir not defteri uygulamasıdır. İlk büyük projem olduğu için kaynak kodu fazlasıyla düzensizdir.
+  * Düzenli notlar almayı amaçlayan bir not defteri uygulamasıdır. İlk büyük projem olduğu için kaynak kodu fazlasıyla düzensizdir.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
