@@ -28,5 +28,11 @@
 ## 📌 Projeler
 * Defter
   * Düzenli notlar almayı amaçlayan bir not defteri uygulamasıdır. İlk büyük projem olduğu için kaynak kodu fazlasıyla düzensizdir.
+* Hesap Makinesi App
+  * GUI arayüzde çalışan gerçek bir hesap makinesi.
+* MatGame
+  * Flask ile yaptığım matematik bulmaca oyunu.
+* HTMLBak
+  * Girdiğiniz url linkinde ki web sitesinin html kodlarını getiren bir uygulama.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
