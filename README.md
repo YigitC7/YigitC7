@@ -2,42 +2,33 @@
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
 </p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=E1733F&width=520&height=80&lines=Yi%C4%9Fit+%C3%87%C4%B1tak;Welcome+To+My+Profile)](https://git.io/typing-svg)
+# 👋 Yiğit Çıtak
 
-</div>
+🐍 Python odaklı yazılım geliştirme ile ilgileniyorum. Öğrenmeye, denemeye ve öğrendiklerimi küçük ama işlevsel projelere dönüştürmeye önem veriyorum.
 
-# 💻 Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-<br>
-<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-<br>
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-<br>
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🧠 İlgi Alanları
 
-# 📊 GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YigitC7&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitC7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🚀 İleri seviye Python programlama
+* 💻 Temel seviye Java, JavaScript ve C
+* 🌐 Web Scraping
 
-## 🏆 GitHub Awards
-![](https://github-profile-trophy.vercel.app/?username=YigitC7&theme=default&no-frame=false&no-bg=false&margin-w=4)
+## 🛠️ Teknolojiler
 
-### 🔝 Top Contributing Repository
-![](https://github-contributor-stats.vercel.app/api?username=YigitC7&limit=5&theme=default&combine_all_yearly_contributions=true)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat\&logo=python\&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat\&logo=qt\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=flat\&logo=python\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)
+
+## 📌 Projeler
+
+* 🛒 Flask ve Pandas kullanarak geliştirilen e-ticaret fiyat karşılaştırma uygulaması
+* 🎞️ Python ile terminalde ASCII video oynatma denemeleri
+* 🎮 Büyük harita üzerinde karakter takibi olan 2D top-down oyun altyapısı çalışmaları
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
