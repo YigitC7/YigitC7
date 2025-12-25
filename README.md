@@ -25,10 +25,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)
 
-## 📌 Projeler
 
-* 🛒 Flask ve Pandas kullanarak geliştirilen e-ticaret fiyat karşılaştırma uygulaması
-* 🎞️ Python ile terminalde ASCII video oynatma denemeleri
-* 🎮 Büyük harita üzerinde karakter takibi olan 2D top-down oyun altyapısı çalışmaları
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
