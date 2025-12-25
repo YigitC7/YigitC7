@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
+  # 👋 Merhaba
 </p>
 
-# 👋 Merhaba
+
 
 🐍 19 yaşındayım ve Python programlama ile ilgileniyorum. Özellikle web scraping alanına odaklanıyor, Python kullanarak çeşitli küçük ve orta ölçekli projeler geliştiriyorum.
 
