@@ -4,13 +4,15 @@
 
 # 👋 Merhaba
 
-🐍 19 yaşındayım ve Python programlama ile ilgileniyorum. Özellikle web scraping alanına odaklanıyor, Python kullanarak çeşitli küçük ve orta ölçekli projeler geliştiriyorum.
+🐍 19 yaşındayım ve Python programlama ile ilgileniyorum. Özellikle web geliştirme alanına odaklanıyor, Python kullanarak çeşitli küçük ve orta ölçekli projeler geliştiriyorum.
 
 ## 🧠 İlgi Alanları
 
 * 🚀 İleri seviye Python programlama
 * 💻 Temel seviye Java, JavaScript ve C
+* 🌐 Web Geliştirme
 * 🌐 Web Scraping
+  
 
 ## 🛠️ Teknolojiler
 
