@@ -4,7 +4,7 @@
 
 # 👋 Merhaba
 
-🐍 19 yaşındayım ve Python programlama ile ilgileniyorum. Özellikle web geliştirme alanına odaklanıyor, Python kullanarak çeşitli küçük ve orta ölçekli projeler geliştiriyorum.
+🐍 19 yaşındayım ve Python programlama ile ilgileniyorum. Özellikle api ve web geliştirme alanına odaklanıyorum.
 
 ## 🧠 İlgi Alanları
 
