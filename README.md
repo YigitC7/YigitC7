@@ -12,7 +12,7 @@
 * 👨‍💻 Yazılım geliştirme
 * 💻 Temel seviye Java, JavaScript ve C
 * 🌐 Web Geliştirme
-* 🌐 Web Scraping
+* 🌐 Api Geliştirme
   
 
 ## 🛠️ Teknolojiler
